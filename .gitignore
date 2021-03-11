@@ -1,3 +1,8 @@
+#
+accounts.txt
+proxies.txt
+notes.txt
+testScripts/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
